@@ -109,7 +109,7 @@ You can deploy this project using:
 👤 **Lucas Bermudez**
 
 - GitHub: [@Oklukeok](https://github.com/Oklukeok)
-- LinkedIn: [luccamicale](https://www.linkedin.com/in/lucas-bermudez/)
+- LinkedIn: [Lucas Bermudez](https://www.linkedin.com/in/lucas-bermudez/)
 
 
 ## 👥 Authors <a name="authors"></a>
